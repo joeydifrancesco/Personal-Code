@@ -1,0 +1,1 @@
+These are Hive resources I created to explain different examples of Hive usage.
