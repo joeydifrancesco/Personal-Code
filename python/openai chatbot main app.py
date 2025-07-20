@@ -81,7 +81,7 @@ async def main():
         url="",
     ).send()
     await Message(
-        content=f"Ask me anything about Econometrica.", author="OCP-GPT"
+        content=f"Ask me anything about Econometrica.", author="EI-GPT"
     ).send()
 
 
